@@ -1,6 +1,6 @@
 ## Hello!👋
 
-I'm an aspiring 2nd year programmer, studying Computer Science in Latvia (🇱🇻). I mostly work on small projects, such as games or utility programs. I also edit videos and compose music!
+I'm an aspiring 2nd year programmer, studying Programming in Latvia (🇱🇻). I mostly work on small projects, such as games or utility programs. I also edit videos and compose music!
 <hr>
 
 ### Skills 💪
