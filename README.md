@@ -1,13 +1,13 @@
 ## Hello!👋
 
-I'm an aspiring 2nd year programmer, studying Programming in Latvia (🇱🇻). I mostly work on small projects, such as games or utility programs. I also edit videos and compose music!
+I'm an aspiring 3rd year programmer, studying Programming in Latvia (🇱🇻). I mostly work on several projects, such as games or utility programs. I also edit videos and compose music!
 <hr>
 
 ### Skills 💪
 I am well oriented in these languages:
-- Java
+- Java & OOP Paradigms
 - WEB Frontend (HTML, CSS, Javascript)
-- GameMaker & GML (GameMaker Language, a programming language similar to C# and JavaScript)
+- GameMaker & GML Scripting (GameMaker Language, a language similar to C# and JavaScript)
 
 I have a basic understanding of these languages:
 - C++
