@@ -1,20 +1,29 @@
 ## Hello!👋
 
-I'm an aspiring 3rd year programmer, studying Programming in Latvia (🇱🇻). I mostly work on several projects, such as games or utility programs. I also edit videos and compose music!
+I'm a 3rd-year programming student in Latvia, mainly interested in **software development and game development**.
+I mostly work with **Java/OOP and GameMaker/GML**, and enjoy building projects outside of school.
+I also compose digital music.
+
 <hr>
 
 ### Skills 💪
-I am well oriented in these languages:
-- Java & OOP Paradigms
-- WEB Frontend (HTML, CSS, Javascript)
-- GameMaker & GML Scripting (GameMaker Language, a language similar to C# and JavaScript)
 
-I have a basic understanding of these languages:
-- C++
+#### I'm comfortable with
+- Java / OOP
+- GameMaker / GML
+- HTML / CSS / JavaScript
 - Python
-- C#
+
+#### I am familiar with
+- C++ & C#
 - Lua
-- GDScript (Godot scripting language, similar to Python)
+
+#### Tools 🔧
+- Git / GitHub / GitHub Desktop
+- Visual Studio / Visual Studio Code
+draw.io
+Asana
+Figma
 
 <hr>
 
@@ -36,16 +45,16 @@ I have a basic understanding of these tools:
 These are (currently) my spotlight projects or collaborations:
 | Project | Description |
 | --- | --- |
-| [Ekskursija pa Liepāju](https://github.com/eclipsevoidd/ProjektsLiepaja) | Game created for the 2026 "Liepājas Datorzinātņu olimpiāde" olympiad. "Ekskursija pa Liepāju" takes you on a tour through the city of Liepāja, allowing you to explore it and play over 10 different minigames, while constantly learning about the city. |
-| [Ekskursija pa Liepāju - OST](https://eclipsevoid.bandcamp.com/album/ekskursija-pa-liep-ju-original-soundtrack) | The original soundtrack, composed by me, for the "Eksursija pa Liepāju" game. |
-| [Šķirošanas Banda](https://github.com/sams7891/trash_gang)| Game created for the 2025 "Liepājas RAS" game jam. The game tasks you with sorting the city's various trash. You have the ability to buy upgrades throughout the game and expand to larger locations. After a week, the game evaluates your progress to determine the ending.|
-| [FNaF GML Port (WIP)](https://github.com/eclipsevoidd/FNaF_GameMakerPort)| A work-in-progress project, that ports *FNaF 1* to GameMaker. The goal of the port is to optimize the original game's code and implement QOL features. |
+| [Ekskursija pa Liepāju](https://github.com/eclipsevoidd/ProjektsLiepaja) | A GameMaker game developed as part of a team for the 2026 "Liepājas Datorzinātņu olimpiāde", which placed 1st overall. The game features an explorable Liepāja map and over 10 minigames. |
+| [Ekskursija pa Liepāju - OST](https://eclipsevoid.bandcamp.com/album/ekskursija-pa-liep-ju-original-soundtrack) | Original soundtrack for Ekskursija pa Liepāju, composed and produced by me. |
+| [Šķirošanas Banda](https://github.com/sams7891/trash_gang)| A GameMaker game created for the 2025 Liepājas RAS game jam. Features an upgrade system, progression, expanding locations and multiple possible endings.|
+| [FNaF GML Port](https://github.com/eclipsevoidd/FNaF_GameMakerPort)| A work-in-progress FNaF 1 port to GameMaker. The project focuses on understanding and improving an existing game implementation, including optimization and quality-of-life features. |
 
 <hr>
 
 ### Socials 🌐
 - 🎵 [Bandcamp](https://eclipsevoid.bandcamp.com/album/ekskursija-pa-liep-ju-original-soundtrack)
-- 💼 [LinkedIn](www.linkedin.com/in/gustavs-lācis-88483730b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavs-lācis-88483730b)
 
 <hr>
 
