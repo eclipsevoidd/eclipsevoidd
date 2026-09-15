@@ -17,27 +17,14 @@ I also compose digital music.
 #### I am familiar with
 - C++ & C#
 - Lua
+<hr>
 
-#### Tools 🔧
+### Tools 🔧
 - Git / GitHub / GitHub Desktop
 - Visual Studio / Visual Studio Code
 draw.io
 Asana
 Figma
-
-<hr>
-
-### Tools 🔧
-I am well oriented in these tools:
-- Git/Github/Github Desktop (Versioning)
-- Visual Studio Code/Visual Studio (IDE)
-- draw.io (Diagramming)
-- Asana (Project managment system)
-- CapCut (Video editing)
-
-I have a basic understanding of these tools:
-- Figma (Interface Design)
-- Vim (IDE)
 
 <hr>
 
