@@ -41,7 +41,6 @@ These are (currently) my spotlight projects or collaborations:
 
 ### Socials 🌐
 - 🎵 [Bandcamp](https://eclipsevoid.bandcamp.com/album/ekskursija-pa-liep-ju-original-soundtrack)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavs-lācis-88483730b)
 
 <hr>
 
