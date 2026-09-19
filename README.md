@@ -22,9 +22,9 @@ I also compose digital music.
 ### Tools 🔧
 - Git / GitHub / GitHub Desktop
 - Visual Studio / Visual Studio Code
-draw.io
-Asana
-Figma
+- draw.io
+- Asana
+- Figma
 
 <hr>
 
