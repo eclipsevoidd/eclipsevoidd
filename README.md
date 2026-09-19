@@ -6,7 +6,7 @@ I also compose digital music.
 
 <hr>
 
-### Skills 💪
+### Skills
 
 #### I'm comfortable with
 - Java / OOP
@@ -19,7 +19,7 @@ I also compose digital music.
 - Lua
 <hr>
 
-### Tools 🔧
+### Tools
 - Git / GitHub / GitHub Desktop
 - Visual Studio / Visual Studio Code
 - draw.io
@@ -28,7 +28,7 @@ I also compose digital music.
 
 <hr>
 
-### Showcase 🌟
+### Showcase
 These are (currently) my notable projects or collaborations:
 | Project | Description | Preview |
 | --- | --- | --- |
@@ -40,8 +40,8 @@ These are (currently) my notable projects or collaborations:
 
 <hr>
 
-### Socials 🌐
-- 🎵 [Bandcamp](https://eclipsevoid.bandcamp.com/album/ekskursija-pa-liep-ju-original-soundtrack)
+### Socials
+- [Bandcamp](https://eclipsevoid.bandcamp.com/album/ekskursija-pa-liep-ju-original-soundtrack)
 
 <hr>
 
